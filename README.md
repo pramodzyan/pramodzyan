@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 
 <!--
