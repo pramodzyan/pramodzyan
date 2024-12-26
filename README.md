@@ -25,7 +25,7 @@ Hi there! I'm Pramod Zyan, a passionate developer who loves creating, learning, 
 
 ### 🌐 Connect with Me:
 [![LinkedIn](www.linkedin.com/in/pramod-sai-yallapu-2662921a6)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com](https://pramodsai-portfolio.netlify.app/))
+[![Portfolio](https://pramodsai-portfolio.netlify.app/)
 
 ---
 
