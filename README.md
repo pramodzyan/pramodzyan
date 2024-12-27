@@ -41,6 +41,11 @@ Hi there! I'm **Pramod Zyan**, a passionate developer who loves creating, learni
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### 🐍 Watch My Contributions Grow!
+
+![Snake animation](https://github.com/pramodzyan/pramodzyan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
