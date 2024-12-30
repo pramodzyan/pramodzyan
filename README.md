@@ -66,9 +66,9 @@ Hi there! I'm **Pramod Zyan**, a passionate developer who loves creating, learni
 
 ---
 
-## 📈 Weekly Development Breakdown
+<!--## 📈 Weekly Development Breakdown -->
 <!-- You can use GitHub Actions or Wakatime for real-time stats -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pramodzyan&theme=radical)
+<!--[Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pramodzyan&theme=radical) --->
 
 ---
 
