@@ -1,5 +1,9 @@
 name: GitHub Snake Game Animation
 
+permissions:
+  contents: write
+  actions: read
+  
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
