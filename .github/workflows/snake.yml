@@ -32,7 +32,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: pramodzyan/snake@main
         with:
           github_token: ${{ secrets.PAT_TOKEN }}
           publish_dir: ./dist
