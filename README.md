@@ -6,8 +6,8 @@ Hi there! I'm **Pramod Zyan**, a passionate developer who loves creating, learni
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramodzyan&show_icons=true&theme=radical" alt="Pramod's GitHub Stats" width="50%"/>
-  <img src="https://streak-stats.demolab.com?user=pramodzyan&theme=radical" alt="Pramod's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pramodzyan&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://streak-stats.demolab.com?user=pramodzyan&theme=radical" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
@@ -17,12 +17,12 @@ Hi there! I'm **Pramod Zyan**, a passionate developer who loves creating, learni
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **[Your Current Projects or Interests]**
-- 🌱 I’m currently learning **[Technologies or Skills You Are Learning]**
-- 👯 I’m looking to collaborate on **[Topics or Projects You Want to Work On]**
-- 💬 Ask me about **[Topics You’re Knowledgeable About]**
-- 📫 How to reach me: **[Your Email or Social Handle]**
-- ⚡ Fun fact: **[Fun Fact About You!]**
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m currently learning **React & Node.js**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Frontend Development**
+- 📫 How to reach me: **pramod.zyan@example.com**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
 
@@ -45,10 +45,11 @@ Hi there! I'm **Pramod Zyan**, a passionate developer who loves creating, learni
 
 ### 🐍 Watch My Contributions Grow!
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pramodzyan/pramodzyan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pramodzyan/pramodzyan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pramodzyan/pramodzyan/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pramodzyan/pramodzyan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pramodzyan/pramodzyan/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pramodzyan/pramodzyan/output/github-snake.svg">
 </picture>
+
 ---
 
 ## 🌐 Connect with Me:
@@ -59,23 +60,17 @@ Hi there! I'm **Pramod Zyan**, a passionate developer who loves creating, learni
   <a href="https://pramodsai-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pramod.zyan@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 ---
 
-<!--## 📈 Weekly Development Breakdown -->
-<!-- You can use GitHub Actions or Wakatime for real-time stats -->
-<!--[Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pramodzyan&theme=radical) --->
-
----
-
 ## 🏆 Achievements
-- 🏅 Contributed to **X+ Open Source Projects**
-- 🌟 Earned **[Your GitHub Stars Count]** stars on repositories
-- 📚 Published **[Any Articles, Blogs, or Research]**
+- 🏅 Contributed to **5+ Open Source Projects**
+- 🌟 Earned **100+ Stars** on repositories
+- 📚 Published **10+ Technical Articles**
 
 ---
 
