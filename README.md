@@ -18,10 +18,10 @@ Hi there! I'm **Pramod Zyan**, a passionate developer who loves creating, learni
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **React & Node.js**
+  - 🌱 I’m currently learning **React & Django**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Frontend Development**
-- 📫 How to reach me: **pramod.zyan@example.com**
+- 💬 Ask me about **Backend and Frontend Development**
+- 📫 How to reach me: **pramodyallapu@gmail.com.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
