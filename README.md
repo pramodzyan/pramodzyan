@@ -21,7 +21,7 @@ Hi there! I'm **Pramod Zyan**, a passionate developer who loves creating, learni
   - 🌱 I’m currently learning **React & Django**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Backend and Frontend Development**
-- 📫 How to reach me: **pramodyallapu@gmail.com.com**
+- 📫 How to reach me: **pramodyallapu@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
